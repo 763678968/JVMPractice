@@ -14,9 +14,9 @@ class SubClass extends SuperClass {
     }
 }
 
-class NotInitialization {
-
-    public static void main(String[] args) {
-        System.out.println(SubClass.value);
-    }
-}
+//class NotInitialization {
+//
+//    public static void main(String[] args) {
+//        System.out.println(SubClass.value);
+//    }
+//}
